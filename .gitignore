@@ -1,0 +1,21 @@
+# frontend
+frontend/node_modules/
+frontend/dist/
+
+# backend
+backend/vendor/
+backend/runtime/
+backend/web/assets/
+
+# environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
